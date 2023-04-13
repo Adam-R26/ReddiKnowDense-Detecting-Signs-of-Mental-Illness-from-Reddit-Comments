@@ -1,0 +1,15 @@
+decoders.p
+encoders.p
+Output
+Input 
+Data
+cache
+__pycache__
+Post-Level*Data
+User-Level*Data
+Results
+X_train.p
+X_test.p
+Y_train.p
+Y_test.p
+X_unlabelled.p
