@@ -8,6 +8,8 @@
 
 NB: This project also explores the <b>advanced machine learning concept of self-training, where a model's own predictions are recycled as training data to enhance performance</b>. This method is particularly effective with small datasets, where the classification decision boundary is ambiguous. By continuously retraining with its predictions, the model fine-tunes this boundary, improving its accuracy. I will omit this part of the project from this repo to avoid it becoming too convoluted but may make another one in future detailing this method and its effectivness in this domain.
 
+NB: You will notice <b>I have left the API keys I used to connect to the Reddit API within the scripts</b>. Of course these keys have been deleted now and so will not work if you try to use them, but serve as an example of the keys you will need when registering for API usage. Note that in a commercical setting these keys would need to be stored as environment variables to mitigate security risks. This project was purely academic for me, hence I just used them within the script.
+
 ### Approach
 #### Data Acquisition and Pre-Processing
 - 
